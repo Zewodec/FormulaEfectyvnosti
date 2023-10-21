@@ -165,17 +165,6 @@ html, body {
     color: #FAF8AD;
 }
 
-.lesson-num{
-    font-family: 'MontserratAlternates', sans-serif;
-    font-weight: 800;
-    font-size: 100px;
-    color: #FFFFFF;
-    margin-right: 40px;
-    width: 140px;
-    padding-left: 60px;
-    text-align: left;
-}
-
 .lesson-title{
     font-family: 'MontserratAlternates', sans-serif;
     font-weight: 800;

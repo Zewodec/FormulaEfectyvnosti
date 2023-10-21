@@ -27,14 +27,6 @@
         padding-right: 2.6041vw; /* 20px ÷ 768px × 100 = 2.6041vw */
     }
 
-    .lesson-num{
-        font-size: 12.021vw;
-        margin-right: 5.208vw;
-        width: 16.229vw;
-        padding-left: 7.813vw;
-        display: none;
-    }
-
     .lesson-title{
         font-size: 4.6875vw; /* 36px ÷ 768px × 100 = 4.6875vw */
     }
