@@ -1,0 +1,122 @@
+@media only screen and (max-width: 768px) {
+    .header-text-containter{
+        margin-top: 60px;
+    }
+
+    .lemon-extrabold-64{
+        font-size: 6vw;
+        text-align: center;
+    }
+
+    .lemon-bold-48{
+        font-size: 5vw;
+    }
+
+    .div-lessons{
+        margin: 2.6vw auto 0px auto;
+    }
+    
+    .row-div{
+        padding-top: 3.90625vw; /* 30px ÷ 768px × 100 = 3.90625vw */
+        padding-bottom: 2.6041vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+    }
+    
+    .toggle-arrow {
+        font-size: 4vw;
+        padding-left: 2.6041vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+        padding-right: 2.6041vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+    }
+
+    .lesson-num{
+        font-size: 12.021vw;
+        margin-right: 5.208vw;
+        width: 16.229vw;
+        padding-left: 7.813vw;
+        display: none;
+    }
+
+    .lesson-title{
+        font-size: 4.6875vw; /* 36px ÷ 768px × 100 = 4.6875vw */
+    }
+
+    .lesson-description{
+        font-size: 3vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+        width: 85vw; /* 750px ÷ 768px × 100 = 97.3958vw */
+        margin-top: 2px;
+    }
+
+    .description-content{
+        padding: 1vw;
+    }
+
+    .buy-button > div{    
+        padding: 3.3854vw 7.8125vw; /* 26px ÷ 768px × 100 = 3.3854vw, 60px ÷ 768px × 100 = 7.8125vw */
+        gap: 1.3021vw; /* 10px ÷ 768px × 100 = 1.3021vw */
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+        font-size: 6.25vw; /* 48px ÷ 768px × 100 = 6.25vw */
+    }
+
+    .what-wait-section{
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+        width: 80vw; /* 80% ÷ 768px × 100 = 80vw */
+    }
+    
+    .what-wait-left-column > h3{
+        font-size: 7.6875vw; /* 36px ÷ 768px × 100 = 4.6875vw */
+    }
+    
+    .what-wait-left-column > ul{
+        font-size: 4.125vw; /* 24px ÷ 768px × 100 = 3.125vw */
+        padding-right: 0; /* 100px ÷ 768px × 100 = 13.0208vw */
+    }
+    
+    .what-wait-right-column > img{
+        display: none;
+    }
+
+    .what-will-get-section{
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+    }
+    
+    .what-will-get-section > h2, .about-us-section > h2{
+        font-size: 7.03125vw; /* 54px ÷ 768px × 100 = 7.03125vw */
+        text-align: center;
+    }
+    
+    .what-will-get-section > ol{
+        width: 80.40625vw; /* 510px ÷ 768px × 100 = 66.40625vw */
+        font-size: 4.3854vw; /* 26px ÷ 768px × 100 = 3.3854vw */
+    }
+    
+    .what-will-get-section > ol >li{
+        margin-top: 3.90625vw; /* 30px ÷ 768px × 100 = 3.90625vw */
+    }
+
+    .about-us-section{
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+        margin-bottom: 16vw; /* 100px ÷ 768px × 100 = 13.0208vw */
+    }
+
+    .certificate-block{
+        display: flex;
+        flex-direction: column;
+        margin-top: 2.6041vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+    }
+
+    .certificate-block > img{
+        width: auto; /* 40% ÷ 768px × 100 = 5.2083vw */
+        height: 60vw; /* 50% ÷ 768px × 100 = 6.5104vw */
+        padding: 3vw; /* 20px ÷ 768px × 100 = 2.6041vw */
+    }
+
+    .person-name{
+        font-size: 6.5vw; /* 42px ÷ 768px × 100 = 5.4688vw */
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+    }
+
+    .person-desc{
+        font-size: 4vw; /* 30px ÷ 768px × 100 = 3.9063vw */
+        width: 85vw; /* 74% ÷ 768px × 100 = 96.3542vw */
+        margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
+    }
+}
