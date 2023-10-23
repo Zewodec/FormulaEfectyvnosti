@@ -82,7 +82,7 @@ html, body {
     justify-content: center;
 }
 
-.what-will-get-section > h2, .about-us-section > h2{
+.what-will-get-section > h2, .about-us-section > h2, price-text{
     color: #FAF8AD;
     font-family: 'MontserratAlternates', sans-serif;
     font-size: 54px;
