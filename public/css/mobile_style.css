@@ -70,7 +70,7 @@
         margin-top: 7.8125vw; /* 60px ÷ 768px × 100 = 7.8125vw */
     }
     
-    .what-will-get-section > h2, .about-us-section > h2{
+    .what-will-get-section > h2, .about-us-section > h2, .price-text{
         font-size: 7.03125vw; /* 54px ÷ 768px × 100 = 7.03125vw */
         text-align: center;
     }
